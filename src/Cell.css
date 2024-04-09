@@ -1,0 +1,14 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  background-color: #028708;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.Cell-lit {
+  background: radial-gradient(circle, rgba(218, 255, 212, 1) 0%, rgba(2, 135, 8, 1) 87%);
+  border-radius: 50%;
+  border: 1px solid black;
+}
